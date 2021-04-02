@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.client.version>9.4.30.v20200611</jetty.client.version>
+        <jetty.client.version>9.4.39.v20210325</jetty.client.version>
         <okhttp.version>3.14.9</okhttp.version>
     </properties>
 
